@@ -20,7 +20,7 @@ import mysql.connector as conn, csv
 mydb = conn.connect(
     host="localhost",
     user="root",
-    password="@Gazaslim2013",
+    password=" ",
     database="Academics"
 )
 print("mydb connection success!")
